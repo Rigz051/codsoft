@@ -5,9 +5,9 @@ The projects focus on data preprocessing, machine learning model building, and e
 
 ---
 
-## 📂 Tasks Completed
+##  Tasks Completed
 
-### 🔹 Task 1: Titanic Survival Prediction
+###  Task 1: Titanic Survival Prediction
 **Objective:**  
 Build a machine learning model to predict whether a passenger survived the Titanic disaster.
 
@@ -26,7 +26,7 @@ Achieved approximately **81% accuracy**.
 
 ---
 
-### 🔹 Task 2: Movie Rating Prediction
+###  Task 2: Movie Rating Prediction
 **Objective:**  
 Predict movie ratings based on features such as genre, director, and actors using regression techniques.
 
@@ -45,7 +45,7 @@ Successfully built a regression model demonstrating the complete ML workflow.
 
 ---
 
-### 🔹 Task 3: Iris Flower Classification
+###  Task 3: Iris Flower Classification
 **Objective:**  
 Classify iris flowers into Setosa, Versicolor, and Virginica based on sepal and petal measurements.
 
@@ -63,7 +63,7 @@ Achieved **100% accuracy** on the test data.
 
 ---
 
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -73,13 +73,13 @@ Achieved **100% accuracy** on the test data.
 
 ---
 
-## 📌 Internship Details
+##  Internship Details
 - Internship: **Data Science Virtual Internship**
 - Organization: **CodSoft**
 - Tasks Completed: **3 / 3**
 
 ---
 
-## 🔗 Author
+##  Author
 **Raghav Gupta**  
 B.Tech Computer Science (AI & Data Science)# codsoft
